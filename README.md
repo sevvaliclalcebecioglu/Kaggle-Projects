@@ -1,10 +1,8 @@
 # 🚀 Kaggle Project Roadmap  
 ### Building Real-World Data Science Competence Through Practice
 
-https://medium.com/@iclal.cb/step-by-step-kaggle-projects-to-become-a-professional-014dda22c238
 
 ---
-
 ## 📌 Overview
 
 Breaking into data science can feel overwhelming when theory outweighs practice.  
